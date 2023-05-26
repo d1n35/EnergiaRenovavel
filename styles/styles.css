@@ -124,4 +124,5 @@ nav li a:hover {
 .chart {
     height: 200px;
     width: auto;
+    float: initial;
 }
