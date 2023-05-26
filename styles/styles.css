@@ -120,3 +120,8 @@ nav li a:hover {
     text-decoration: none;
     color: white;
 }
+
+.chart {
+    height: 200px;
+    width: auto;
+}
