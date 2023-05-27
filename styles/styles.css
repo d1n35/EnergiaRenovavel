@@ -62,6 +62,11 @@ nav li a:hover {
     height: 400px;
 }
 
+.graph{
+    width: 80%;
+    height: auto;
+}
+
 .paragrafo {
     background-color: rgb(141, 178, 68);
     height: auto;
