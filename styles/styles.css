@@ -65,6 +65,7 @@ nav li a:hover {
 .graph{
     width: 80%;
     height: 200px;
+    position: absolute;
 }
 
 .paragrafo {
