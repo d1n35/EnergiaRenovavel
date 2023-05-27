@@ -66,6 +66,7 @@ nav li a:hover {
     width: 80%;
     height: 200px;
     position: absolute;
+    float: inline-start;
 }
 
 .paragrafo {
