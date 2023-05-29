@@ -63,10 +63,11 @@ nav li a:hover {
 }
 
 .graph{
-    width: 80%;
-    height: 200px;
-    position: absolute;
-    float: inline-start;
+    width: 600px;
+    height: 450px;
+    text-align: center;
+    align-content: center;
+    margin-bottom: 100px;
 }
 
 .paragrafo {
@@ -133,3 +134,4 @@ nav li a:hover {
     width: auto;
     float: initial;
 }
+
